@@ -1,1 +1,0 @@
-Profile "<INSERT WIFI NAME HERE>" is not found on the system.
